@@ -1,0 +1,6 @@
+Alorithm:
+1.first generate prime number upto 1000000 using Seive of eratosthene.
+2.take a list of prime number which we are having 3 or more repeated digits.
+3.Start iteration and check number.
+4.Find all the replacements for the given number, if you are given a number 566003, then you should be able to generate [[566003,566113,566223,566333,566443,566553,566663,566773,566883,566993],[500003,511003,522003,533003,544003,555003,566003,577003,588003,599003
+5.Take the modified list and check if its length is 8, if the length is 8 then print the first element in the list and break all the loops, if the length is not 8, then start again from Step 5 with the next prime number.
